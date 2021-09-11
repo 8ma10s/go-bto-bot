@@ -1,0 +1,4 @@
+app_name: "bto-go-bot"
+command_prefix: "?"
+discord:
+  token: ""
